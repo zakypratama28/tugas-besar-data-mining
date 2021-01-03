@@ -1,8 +1,8 @@
 # tugas_besar_data_mining
-Ini adalah github kelompok 
+Ini adalah github kelompok :
 
-fahrurzaky 3311901031
+fahrurzaky nur pratama  3311901031
 
-jenny susanti 3311911051
+jenny susanti           3311911051
 
-Rizky setiawan 3311901042
+Rizky setiawan          3311901042
