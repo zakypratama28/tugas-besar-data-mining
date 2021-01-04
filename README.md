@@ -3,6 +3,6 @@ Ini adalah github kelompok :
 
 fahrurzaky nur pratama  3311901031
 
-jenny susanti           3311911051
+Jenny susanti           3311911051
 
 Rizky setiawan          3311901042
