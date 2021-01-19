@@ -1,7 +1,7 @@
-# tugas_besar_data_mining
-Ini adalah github kelompok :
+# tugas_besar_data_mining 031,051,042
+Ini adalah Github kelompok TB Data Mining :
 
-fahrurzaky nur pratama  3311901031
+Fahrurzaky Nur Pratama  3311901031
 
 Jenny susanti           3311911051
 
